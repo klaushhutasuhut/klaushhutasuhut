@@ -4,7 +4,7 @@ i’m currently learning Mobile Dev and React JS.
 How to reach me:
 - Facebook: https://www.facebook.com/klaus.hutasuhut
 - Youtube: https://www.youtube.com/channel/UCCxITcIJF9jIt1vFJCU1DTQ
-- Linkein: https://www.linkedin.com/in/klaus-hernando-45b10a165
+- Linkedin: https://www.linkedin.com/in/klaus-hernando-45b10a165
 - Twitter: https://twitter.com/HernandoKlaus
 - Instagram: https://www.instagram.com/klaushutasuhut
 - Pintrest: https://id.pinterest.com/hernandohutasuhut
